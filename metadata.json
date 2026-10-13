@@ -1,0 +1,6 @@
+{
+  "name": "MYRA AI",
+  "description": "Premium futuristic personal AI assistant with glowing orb, voice interactions, and Gemini AI chat",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
